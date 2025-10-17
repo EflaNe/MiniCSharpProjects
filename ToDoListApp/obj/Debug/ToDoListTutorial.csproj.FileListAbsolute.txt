@@ -1,0 +1,16 @@
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\bin\Debug\ToDoListTutorial.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\bin\Debug\ToDoListTutorial.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\bin\Debug\ToDoListTutorial.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\obj\Debug\ToDoListTutorial.csproj.AssemblyReference.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\obj\Debug\ToDoListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\obj\Debug\ToDoListTutorial.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\obj\Debug\ToDoListTutorial.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\ToDoListTutorial\obj\Debug\ToDoListTutorial.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\bin\Debug\ToDoListTutorial.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\bin\Debug\ToDoListTutorial.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\bin\Debug\ToDoListTutorial.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\obj\Debug\ToDoListTutorial.csproj.AssemblyReference.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\obj\Debug\ToDoListTutorial.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\obj\Debug\ToDoListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\obj\Debug\ToDoListTutorial.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\ToDoListTutorial\obj\Debug\ToDoListTutorial.pdb
