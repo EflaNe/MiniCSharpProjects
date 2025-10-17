@@ -1,2 +1,3 @@
 # MiniCSharpProjects
-Collection of my C# console projects.
+### 🔹 CalculatorApp
+A simple console-based calculator using switch-case.
