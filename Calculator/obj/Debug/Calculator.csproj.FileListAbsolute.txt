@@ -1,0 +1,16 @@
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\bin\Debug\Calculator.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\bin\Debug\Calculator.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\obj\Debug\Calculator.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\obj\Debug\Calculator.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_Work\Calculator\obj\Debug\Calculator.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\bin\Debug\Calculator.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\bin\Debug\Calculator.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\obj\Debug\Calculator.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\obj\Debug\Calculator.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\C#_ConsoleUygulaması\Calculator\obj\Debug\Calculator.pdb
