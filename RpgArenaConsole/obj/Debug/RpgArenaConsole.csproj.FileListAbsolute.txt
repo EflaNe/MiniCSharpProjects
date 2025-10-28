@@ -1,0 +1,8 @@
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\bin\Debug\RpgArenaConsole.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\bin\Debug\RpgArenaConsole.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\bin\Debug\RpgArenaConsole.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\obj\Debug\RpgArenaConsole.csproj.AssemblyReference.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\obj\Debug\RpgArenaConsole.csproj.CoreCompileInputs.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\obj\Debug\RpgArenaConsole.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\obj\Debug\RpgArenaConsole.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\RpgArenaConsole\obj\Debug\RpgArenaConsole.exe.config
