@@ -1,0 +1,8 @@
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\bin\Debug\SimpleE-CommerceSimulationApp.exe.config
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\bin\Debug\SimpleE-CommerceSimulationApp.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\bin\Debug\SimpleE-CommerceSimulationApp.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\obj\Debug\SimpleE-CommerceSimulationApp.csproj.AssemblyReference.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\obj\Debug\SimpleE-CommerceSimulationApp.csproj.CoreCompileInputs.cache
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\obj\Debug\SimpleE-CommerceSimulationApp.exe
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\obj\Debug\SimpleE-CommerceSimulationApp.pdb
+C:\Users\sirli\OneDrive\Desktop\C#_Kod\OOPC#\SimpleE-CommerceSimulationApp\obj\Debug\SimpleE-CommerceSimulationApp.exe.config
