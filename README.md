@@ -7,3 +7,5 @@ A simple To-Do List application created using if-else conditions to manage basic
 A simple RPG battle system. Class system used.
 ### 🔹 LibraryApp  
 A simple Library Management System built using C# Classes + LINQ.
+### 🔹 Simple E-CommerceSimulation
+A simple Simple E-CommerceSimulation System built using C# Classes + LINQ.
